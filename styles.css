@@ -1,0 +1,41 @@
+h1{
+background-color: black;
+color: white;
+font-size: 55;
+padding:10;
+}
+.data{
+padding:4;
+padding-left: 50;
+padding-right: 50;
+}
+.sn{
+padding:4;
+padding-left: 20;
+padding-right: 20;
+}
+h2{
+padding-top: 13;
+padding-left: 15;
+font-size: 35;
+}
+h3{
+padding-top: 13;
+padding-left: 15;
+font-size: 25;
+}
+h4{
+padding-top: 13;
+padding-left: 15;
+font-size: 20;
+}
+p{
+	padding-left: 15;
+}
+div{
+background-color:#cac4c3;
+border-radius:25px;
+}
+.tab{
+padding-left: 20;
+}
