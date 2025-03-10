@@ -32,6 +32,9 @@ font-size: 20;
 p{
 	padding-left: 15;
 }
+pre{
+	padding-left: 15;
+}
 div{
 background-color:#cac4c3;
 border-radius:25px;
